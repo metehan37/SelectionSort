@@ -39,4 +39,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://opensource.org/licenses/MIT)
 
 ## Photo
-![Photo](https://github.com/SelectionSort/Screenshoot_1.png)
+![Photo](https://github.com/metehan37/SelectionSort/blob/master/Screenshot_1.png)
