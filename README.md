@@ -2,7 +2,7 @@
 Bu repo [Patika](https://www.patika.dev) Veri Yapıları eğitiminde bulunan Selection Sort projesidir. İçerisinde bir adet README dosyası barındırıyor.
 
 ### Insertion Sort example
-[22,27,16,2,18,6]->[22,16,27,2,18,6]->[16,22,27,2,18,6]->[16,22,2,27,18,6]->[16,2,22,27,18,6]->[2,16,22,27,18,6]->[2,16,22,18,27,6]->[2,16,18,22,27,6]->[2,16,18,22,6,27]->[2,16,18,6,22,27]->[2,16,6,18,22,27]->[2,6,16,18,22,27]
+[22,27,16,2,18,6]->[22,16,27,2,18,6]->[16,22,27,2,18,6]->[2,16,22,27,18,6]->[[2,6,16,18,22,27]
 
 Best Case   :   O(n) 
 Average Case:   O(n^2) W
@@ -37,3 +37,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
+
+## Photo
+![Photo](https://github.com/SelectionSort/Screenshoot_1.png)
